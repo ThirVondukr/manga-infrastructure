@@ -1,0 +1,6 @@
+[submodule "manga-backend"]
+	path = manga-backend
+	url = git@github.com:ThirVondukr/manga-backend.git
+[submodule "manga-frontend"]
+	path = manga-frontend
+	url = git@github.com:ThirVondukr/manga-frontend.git
